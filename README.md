@@ -1,4 +1,4 @@
 # the-ninth-person
 第九人是一個推理向的視覺小說遊戲。故事背景始於主角通過層層篩選，來到了最強大腦的決賽，要與其他參賽者一同探險地底迷宮，但同時參賽者只有八位，而場上的第九人「不是人」，只要到達地心或找出第九人則遊戲勝利，但要小心，有隱藏規則不可違反，違反者後果自負，且這規則與第九人有密不可分的關係...
 ## 🎮 遊戲下載 (Download Game)
-* [點我下載遊戲 (Google Drive 載點)]([https://your-drive-link.com](https://drive.google.com/file/d/16GuwKAIDOX-i54pFLTDuwjeojbpdQPjA/view?usp=drive_link))
+* [點我下載遊戲 (Google Drive 載點)](https://drive.google.com/file/d/16GuwKAIDOX-i54pFLTDuwjeojbpdQPjA/view)
